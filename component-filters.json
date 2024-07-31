@@ -35,5 +35,26 @@
     "components": [
       "card"
     ]
+  },
+  {
+    "id": "form",
+    "components": [
+      "checkbox",
+      "date-input",
+      "drop-down",
+      "email",
+      "file-input",
+      "form-button",
+      "form-fragment",
+      "form-image",
+      "form-reset-button",
+      "form-submit-button",
+      "number-input",
+      "panel",
+      "plain-text",
+      "radio-group",
+      "text-input",
+      "wizard"
+    ]
   }
 ]
